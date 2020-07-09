@@ -1,0 +1,37 @@
+body {
+	background-color: #035aa6;
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.brand {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.container-fluid {
+	padding: 2rem 4rem;
+}
+
+.desc {
+	font-size: 5rem;
+}
+
+#features, #contact {
+	position: relative;
+	color: #035aa6;
+	background-color: #ffffff;
+}
+
+.features-heading {
+	padding: 5%;
+	text-align: center;
+}
+
+.icons {
+	padding: 1rem;
+	color: #40bad5;
+}
+
+.thumbnail {
+	text-align: center;
+}
